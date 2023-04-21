@@ -1,0 +1,16 @@
+title: Общая информация
+collapse: false
+arrange:
+    - Licensing.md
+    - Nomenclature.md
+    - KindOfNomenclature.md
+    - РroductCategory.md
+    - Organization.md
+    - Contractor.md
+    - Holding.md
+    - Department.md
+    - BusinessRegion.md
+    - DeliveryPoint.md
+    - WorkCenter.md
+    - DocumentsOfIndividuals.md
+    - Versioning.md

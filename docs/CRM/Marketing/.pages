@@ -1,0 +1,9 @@
+title: Маркетинг
+collapse: false
+arrange:
+    - BudgetPlanning.md
+    - BudgetApproval.md
+    - MarketingEventProfiles.md
+    - MarketingEvent.md
+    - CompletionMarketingEvent.md
+    - Reports

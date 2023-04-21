@@ -1,0 +1,5 @@
+title: Настройки планирования продаж
+collapse: false
+arrange:
+    - SalesPlanningPeriods.md
+    - CommodityPlanningScenarios.md

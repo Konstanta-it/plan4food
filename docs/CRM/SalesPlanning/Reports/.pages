@@ -1,0 +1,6 @@
+title: Отчеты
+collapse: false
+arrange:
+    - Sales.md
+    - ImplementationSalesPlan.md
+    - WeightedAveragePricesInChannel.md

@@ -1,0 +1,10 @@
+title:  Планирование разруба
+collapse: false
+arrange:
+    - SchemeCutting.md
+    - Waves.md
+    - CuttingParameters.md
+    - CuttingOptions.md
+    - PlanningPriorities.md
+    - SlaughterAndButcheringScenarios.md
+    - PlanningOfTheCut.md
