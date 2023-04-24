@@ -14,38 +14,36 @@
 - [Бизнес-регионы](CommonInformation/BusinessRegion.md)
 - [Рабочие центры](CommonInformation/WorkCenter.md)
 
-<h2> CRM </h2>
+<h2> Планирование продаж </h2>
 
-<h3> Планирование продаж </h3>
-
-- [Планирование продаж](CRM/SalesPlanning/SalesPlanning.md)
+- [Планирование продаж](SalesPlanning/SalesPlanning.md)
 - Настройки планирования продаж
-    - [Периоды планирования продаж](CRM/SalesPlanning/SalesPlanningSettings/SalesPlanningPeriods.md)
-    - [Сценарии товарного планирования](CRM/SalesPlanning/SalesPlanningSettings/CommodityPlanningScenarios.md)
-- [Настройки сценариев планирования](CRM/SalesPlanning/PlanningScenarioSettings.md)
-- [Годовой план продаж](CRM/SalesPlanning/AnnualSalesPlan.md)
-- [Планирование по товарным категориям](CRM/SalesPlanning/PlanningByProductCategories.md)
-- [Планирование по SKU](CRM/SalesPlanning/PlanningBySKU.md)
+    - [Периоды планирования продаж](SalesPlanning/SalesPlanningSettings/SalesPlanningPeriods.md)
+    - [Сценарии товарного планирования](SalesPlanning/SalesPlanningSettings/CommodityPlanningScenarios.md)
+- [Настройки сценариев планирования](SalesPlanning/PlanningScenarioSettings.md)
+- [Годовой план продаж](SalesPlanning/AnnualSalesPlan.md)
+- [Планирование по товарным категориям](SalesPlanning/PlanningByProductCategories.md)
+- [Планирование по SKU](SalesPlanning/PlanningBySKU.md)
 - Отчеты
-    - [Продажи](CRM/SalesPlanning/Reports/Sales.md)
-    - [Выполнение плана продаж](CRM/SalesPlanning/Reports/ImplementationSalesPlan.md)
-    - [Средневзвешенные цены в канале](CRM/SalesPlanning/Reports/WeightedAveragePricesInChannel.md)
+    - [Продажи](SalesPlanning/Reports/Sales.md)
+    - [Выполнение плана продаж](SalesPlanning/Reports/ImplementationSalesPlan.md)
+    - [Средневзвешенные цены в канале](SalesPlanning/Reports/WeightedAveragePricesInChannel.md)
 
-<h3> Маркетинг </h3>
+<h2> Маркетинг </h2>
 
-- [Планирование бюджета](CRM/Marketing/BudgetPlanning.md)
-- [Утверждение бюджета](CRM/Marketing/BudgetApproval.md)
-- [Профили маркетинговых мероприятий](CRM/Marketing/MarketingEventProfiles.md)
-- [Маркетинговое мероприятие](CRM/Marketing/MarketingEvent.md)
-- [Завершение маркетингового мероприятия](CRM/Marketing/CompletionMarketingEvent.md)
+- [Планирование бюджета](Marketing/BudgetPlanning.md)
+- [Утверждение бюджета](Marketing/BudgetApproval.md)
+- [Профили маркетинговых мероприятий](Marketing/MarketingEventProfiles.md)
+- [Маркетинговое мероприятие](Marketing/MarketingEvent.md)
+- [Завершение маркетингового мероприятия](Marketing/CompletionMarketingEvent.md)
 - Отчеты
-    - [Цены по маркетинговому мероприятию](CRM/Marketing/Reports/PricesMarketingEvent.md)
-    - [Эффективность маркетинговых мероприятий](CRM/Marketing/Reports/EffectivenessMarketingActivities.md)
-    - [Структурный анализ продаж](CRM/Marketing/Reports/StructuralAnalysisSales.md)
-    - [Бюджет маркетинговых мероприятий](CRM/Marketing/Reports/BudgetMarketingEvents.md)
-    - [Отчет по акциям](CRM/Marketing/Reports/StockReport.md)
-    - [Рентабельность маркетинговых мероприятий](CRM/Marketing/Reports/ProfitabilityMarketingActivities.md)
-    - [Анализ пересечения маркетинговых мероприятий](CRM/Marketing/Reports/AnalysisIntersectionMarketingActivities.md)
+    - [Цены по маркетинговому мероприятию](Marketing/Reports/PricesMarketingEvent.md)
+    - [Эффективность маркетинговых мероприятий](Marketing/Reports/EffectivenessMarketingActivities.md)
+    - [Структурный анализ продаж](Marketing/Reports/StructuralAnalysisSales.md)
+    - [Бюджет маркетинговых мероприятий](Marketing/Reports/BudgetMarketingEvents.md)
+    - [Отчет по акциям](Marketing/Reports/StockReport.md)
+    - [Рентабельность маркетинговых мероприятий](Marketing/Reports/ProfitabilityMarketingActivities.md)
+    - [Анализ пересечения маркетинговых мероприятий](Marketing/Reports/AnalysisIntersectionMarketingActivities.md)
 
 <h2> Планирование разруба </h2>
 

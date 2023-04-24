@@ -1,0 +1,5 @@
+title: SCP
+collapse: false
+arrange:
+    - ShipmentRequirementsPlanning
+    - SupplyChainPlanning
