@@ -1,0 +1,6 @@
+title: Планирование потребностей в отгрузке
+collapse: false
+arrange:
+    - RulesForCalculatingShipments.md
+    - NeedsPlanningScenarios.md
+    - NeedsPlanning.md

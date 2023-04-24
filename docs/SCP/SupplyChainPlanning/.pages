@@ -1,14 +1,11 @@
-title: Формирование заявок на производство
+title: Планирование цепочек поставок
 collapse: false
 arrange:
     - SchemeSCP.md
     - Buffer.md
     - ProvisionScheme.md
     - ProductionResidues.md
-    - RulesForCalculatingShipments.md
-    - NeedsPlanningScenarios.md
     - ScenariosForPlanningRequestsForTheDay.md
     - SupplyChainPlanningScenarios.md
-    - NeedsPlanning.md
     - PlanningRequestsForTheDay.md
     - SupplyChainPlanning.md

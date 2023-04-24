@@ -12,5 +12,4 @@ arrange:
     - BusinessRegion.md
     - DeliveryPoint.md
     - WorkCenter.md
-    - DocumentsOfIndividuals.md
     - Versioning.md
