@@ -13,11 +13,8 @@
 - [Точки доставки](CommonInformation/DeliveryPoint.md)
 - [Бизнес-регионы](CommonInformation/BusinessRegion.md)
 - [Рабочие центры](CommonInformation/WorkCenter.md)
-- [Документы физических лиц](CommonInformation/DocumentsOfIndividuals.md)
 
 <h2> CRM </h2>
-
-- [CRM](CRM/CrmScheme.md)
 
 <h3> Планирование продаж </h3>
 
@@ -61,17 +58,22 @@
 
 <h2> Формирование заявок на производство </h2>
 
-- [Схема формирования заявок на производство](SCP/SchemeSCP.md)
-- [Буфер](SCP/Buffer.md)
-- [Схемы обеспечения](SCP/ProvisionScheme.md)
-- [Прогнозные остатки производства](SCP/ProductionResidues.md)
-- [Правила расчета отгрузок](SCP/RulesForCalculatingShipments.md)
-- [Сценарии планирования потребностей](SCP/NeedsPlanningScenarios.md)
-- [Сценарии планирования заявок на день](SCP/ScenariosForPlanningRequestsForTheDay.md)
-- [Сценарии планирования цепочек поставок](SCP/SupplyChainPlanningScenarios.md)
-- [Планирование потребностей](SCP/NeedsPlanning.md)
-- [Планирование заявок на день](SCP/PlanningRequestsForTheDay.md)
-- [Планирование цепочек поставок](SCP/SupplyChainPlanning.md)
+<h3> Планирование потребностей в отгрузке </h3>
+
+- [Планирование потребностей](SCP/ShipmentRequirementsPlanning/NeedsPlanning.md)
+- [Сценарии планирования потребностей](SCP/ShipmentRequirementsPlanning/NeedsPlanningScenarios.md)
+- [Правила расчета отгрузок](SCP/ShipmentRequirementsPlanning/RulesForCalculatingShipments.md)
+
+<h3> Планирование цепочек поставок </h3>
+
+- [Буфер](SCP/SupplyChainPlanning/Buffer.md)
+- [Схемы обеспечения](SCP/SupplyChainPlanning/ProvisionScheme.md)
+- [Схема формирования заявок на производство](SCP/SupplyChainPlanning/SchemeSCP.md)
+- [Прогнозные остатки производства](SCP/SupplyChainPlanning/ProductionResidues.md)
+- [Сценарии планирования заявок на день](SCP/SupplyChainPlanning/ScenariosForPlanningRequestsForTheDay.md)
+- [Сценарии планирования цепочек поставок](SCP/SupplyChainPlanning/SupplyChainPlanningScenarios.md)
+- [Планирование заявок на день](SCP/SupplyChainPlanning/PlanningRequestsForTheDay.md)
+- [Планирование цепочек поставок](SCP/SupplyChainPlanning/SupplyChainPlanning.md)
 
 <h2> Интеграция </h2>
 
