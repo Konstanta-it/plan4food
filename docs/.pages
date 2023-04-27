@@ -3,6 +3,7 @@ arrange:
     - CommonInformation
     - Marketing
     - SalesPlanning
+    - OperationalPlanning
     - Cutting
     - SCP
     - Integration

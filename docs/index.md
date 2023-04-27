@@ -45,6 +45,13 @@
     - [Рентабельность маркетинговых мероприятий](Marketing/Reports/ProfitabilityMarketingActivities.md)
     - [Анализ пересечения маркетинговых мероприятий](Marketing/Reports/AnalysisIntersectionMarketingActivities.md)
 
+<h2> Пооперационное планирование  </h2>
+
+- [Сценарии ППРЦ](OperationalPlanning/ScenarioOperationalPlanning.md)
+- [Кратность партии](OperationalPlanning/PartyMultiplicity.md)
+- [Настройка операций в Этапах производства](OperationalPlanning/SettingUpOperations.md)
+- [Пооперационное планирование](OperationalPlanning/OperationalPlanning.md)
+
 <h2> Планирование разруба </h2>
 
 - [Схема планирования разруба](Cutting/SchemeCutting.md)
