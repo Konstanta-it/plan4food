@@ -1,0 +1,7 @@
+title: Обрезка заказов
+collapse: false
+arrange:
+    - SettingSeriesSelectionRules.md
+    - CuttingOrdersSetting.md
+    - StagesOfDocuments.md
+    - CuttingOrders.md

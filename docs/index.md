@@ -79,3 +79,10 @@
 - [Сценарии планирования цепочек поставок](SCP/SupplyChainPlanning/SupplyChainPlanningScenarios.md)
 - [Планирование заявок на день](SCP/SupplyChainPlanning/PlanningRequestsForTheDay.md)
 - [Планирование цепочек поставок](SCP/SupplyChainPlanning/SupplyChainPlanning.md)
+
+<h2> Обрезка заказов </h2>
+
+- [Настройки правил подбора серий](CuttingOrders/SettingSeriesSelectionRules.md)
+- [Настройки обрезки заказов](CuttingOrders/CuttingOrdersSetting.md)
+- [Этапы документов](CuttingOrders/StagesOfDocuments.md)
+- [Обрезка заказов](CuttingOrders/CuttingOrders.md)

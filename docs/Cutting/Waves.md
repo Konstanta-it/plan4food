@@ -29,7 +29,6 @@
 - Волна отгрузки
 - Волна производства
 
-
 [1]: Waves.assets/1.png
 [2]: Waves.assets/2.png
 [3]: Waves.assets/3.png
