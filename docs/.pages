@@ -2,9 +2,9 @@ arrange:
 
     - index.md
     - CommonInformation
-    - Marketing
     - SalesPlanning
-    - OperationalPlanning
-    - Cutting
-    - CuttingOrders
+    - Marketing
     - SCP
+    - Cutting
+    - OperationalPlanning
+    - CuttingOrders
