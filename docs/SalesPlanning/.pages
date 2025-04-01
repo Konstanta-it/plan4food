@@ -3,7 +3,6 @@ collapse: false
 arrange:
     - SalesPlanning.md
     - SalesPlanningSettings
-    - PlanningScenarioSettings.md
     - AnnualSalesPlan.md
     - PlanningByProductCategories.md
     - PlanningBySKU.md

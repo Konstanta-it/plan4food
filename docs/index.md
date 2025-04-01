@@ -20,7 +20,7 @@
 - Настройки планирования продаж
     - [Периоды планирования продаж](SalesPlanning/SalesPlanningSettings/SalesPlanningPeriods.md)
     - [Сценарии товарного планирования](SalesPlanning/SalesPlanningSettings/CommodityPlanningScenarios.md)
-- [Настройки сценариев планирования](SalesPlanning/PlanningScenarioSettings.md)
+    - [Настройки сценариев планирования](SalesPlanning/SalesPlanningSettings/PlanningScenarioSettings.md)
 - [Годовой план продаж](SalesPlanning/AnnualSalesPlan.md)
 - [Планирование по товарным категориям](SalesPlanning/PlanningByProductCategories.md)
 - [Планирование по SKU](SalesPlanning/PlanningBySKU.md)
@@ -37,29 +37,13 @@
 - [Маркетинговое мероприятие](Marketing/MarketingEvent.md)
 - [Завершение маркетингового мероприятия](Marketing/CompletionMarketingEvent.md)
 - Отчеты
+    - [Анализ пересечения маркетинговых мероприятий](Marketing/Reports/AnalysisIntersectionMarketingActivities.md)
+    - [Бюджет маркетинговых мероприятий](Marketing/Reports/BudgetMarketingEvents.md)
+    - [Календарь маркетинговых мероприятий](Marketing/Reports/StockReport.md)
+    - [Рентабельность маркетинговых мероприятий](Marketing/Reports/ProfitabilityMarketingActivities.md)
+    - [Структурный анализ продаж](Marketing/Reports/StructuralAnalysisSales.md)
     - [Цены по маркетинговому мероприятию](Marketing/Reports/PricesMarketingEvent.md)
     - [Эффективность маркетинговых мероприятий](Marketing/Reports/EffectivenessMarketingActivities.md)
-    - [Структурный анализ продаж](Marketing/Reports/StructuralAnalysisSales.md)
-    - [Бюджет маркетинговых мероприятий](Marketing/Reports/BudgetMarketingEvents.md)
-    - [Отчет по акциям](Marketing/Reports/StockReport.md)
-    - [Рентабельность маркетинговых мероприятий](Marketing/Reports/ProfitabilityMarketingActivities.md)
-    - [Анализ пересечения маркетинговых мероприятий](Marketing/Reports/AnalysisIntersectionMarketingActivities.md)
-
-<h2> Пооперационное планирование  </h2>
-
-- [Сценарии ППРЦ](OperationalPlanning/ScenarioOperationalPlanning.md)
-- [Кратность партии](OperationalPlanning/PartyMultiplicity.md)
-- [Настройка операций в Этапах производства](OperationalPlanning/SettingUpOperations.md)
-- [Пооперационное планирование](OperationalPlanning/OperationalPlanning.md)
-
-<h2> Планирование разруба </h2>
-
-- [Схема планирования разруба](Cutting/SchemeCutting.md)
-- [Волны](Cutting/Waves.md)
-- [Варианты разруба](Cutting/CuttingOptions.md)
-- [Приоритеты планирования](Cutting/PlanningPriorities.md)
-- [Сценарии убоя и разделки](Cutting/SlaughterAndButcheringScenarios.md)
-- [Планирование разруба](Cutting/PlanningOfTheCut.md)
 
 <h2> Формирование заявок на производство </h2>
 
@@ -79,6 +63,22 @@
 - [Сценарии планирования цепочек поставок](SCP/SupplyChainPlanning/SupplyChainPlanningScenarios.md)
 - [Планирование заявок на день](SCP/SupplyChainPlanning/PlanningRequestsForTheDay.md)
 - [Планирование цепочек поставок](SCP/SupplyChainPlanning/SupplyChainPlanning.md)
+
+<h2> Планирование разруба </h2>
+
+- [Схема планирования разруба](Cutting/SchemeCutting.md)
+- [Волны](Cutting/Waves.md)
+- [Варианты разруба](Cutting/CuttingOptions.md)
+- [Приоритеты планирования](Cutting/PlanningPriorities.md)
+- [Сценарии убоя и разделки](Cutting/SlaughterAndButcheringScenarios.md)
+- [Планирование разруба](Cutting/PlanningOfTheCut.md)
+
+<h2> Пооперационное планирование  </h2>
+
+- [Сценарии ППРЦ](OperationalPlanning/ScenarioOperationalPlanning.md)
+- [Кратность партии](OperationalPlanning/PartyMultiplicity.md)
+- [Настройка операций в Этапах производства](OperationalPlanning/SettingUpOperations.md)
+- [Пооперационное планирование](OperationalPlanning/OperationalPlanning.md)
 
 <h2> Обрезка заказов </h2>
 
