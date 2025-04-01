@@ -1,10 +1,10 @@
 title: Отчеты
 collapse: false
 arrange:
-    - PricesMarketingEvent.md
-    - EffectivenessMarketingActivities.md
-    - StructuralAnalysisSales.md
+    - AnalysisIntersectionMarketingActivities.md
     - BudgetMarketingEvents.md
     - StockReport.md
     - ProfitabilityMarketingActivities.md
-    - AnalysisIntersectionMarketingActivities.md
+    - StructuralAnalysisSales.md
+    - PricesMarketingEvent.md
+    - EffectivenessMarketingActivities.md

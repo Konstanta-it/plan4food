@@ -3,3 +3,4 @@ collapse: false
 arrange:
     - SalesPlanningPeriods.md
     - CommodityPlanningScenarios.md
+    - PlanningScenarioSettings.md
